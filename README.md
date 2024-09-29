@@ -10,3 +10,7 @@ npm install -D tailwindcss
 uan vez creado el proyecto se tiene que adicionar los siguiente 
 ng add ngxtension
 ng add @angular-eslint/schematics
+
+
+https://github.com/user-attachments/assets/a3485623-3de9-4ce1-a378-eb14e2d43e67
+
